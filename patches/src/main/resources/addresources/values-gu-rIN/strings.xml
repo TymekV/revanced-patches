@@ -22,6 +22,7 @@ Second \"item\" text"</string>
   <app id="shared">
   <patch id="layout.branding.baseCustomBrandingPatch">
   <!-- Translations of this should be identical to revanced_custom_branding_icon_entry_5 -->
+  <string name="revanced_custom_branding_name_entry_5"></string>
   <!-- Translation of this should be identical to revanced_header_logo_entry_5 -->
   <!-- Translations of this should be identical to revanced_custom_branding_name_entry_5 -->
   </patch>
